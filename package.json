@@ -1,9 +1,9 @@
 {
-  "name": "com.udonvr.recordplayer.usharp",
-  "displayName": "UdonVR - RecordPlayer - USharp Modual",
+  "name": "com.udonvr.recordplayer.usharpvideo",
+  "displayName": "UdonVR - RecordPlayer - USharpVideo Modual",
   "version": "1.2.0",
   "unity": "2022.3",
-  "description": "USharp Videoplayer hook for UdonVR's Record Player.",
+  "description": "USharpVideo Videoplayer hook for UdonVR's Record Player.",
   "author": {
     "name": "UdonVR",
     "email": "admin@udonvr.com",
